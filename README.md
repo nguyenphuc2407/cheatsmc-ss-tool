@@ -44,6 +44,6 @@ Nhấn nút SCAN và đợi hệ thống hoàn tất quá trình kiểm tra đ�
 💬 Cộng đồng & Hỗ trợ
 Mọi thông tin chi tiết, báo lỗi hoặc đóng góp ý kiến cho dự án, vui lòng kết nối qua:
 
-💬 Discord Cheats MC: Tham gia ngay tại đây
+💬 Discord Cheats MC: [Tham gia ngay tại đây](https://discord.gg/cHaxxYztr)
 
 Developed for Cheats MC Community.
